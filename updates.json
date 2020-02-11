@@ -1,18 +1,18 @@
 {
   "darwin-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-v38.0.0-dev.365/release.json",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-v38.0.0-dev.365/Pulse-38.0.0-dev.365.dmg",
-    "version": "38.0.0-dev.365"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-v38.0.0-dev.366/release.json",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-v38.0.0-dev.366/Pulse-38.0.0-dev.366.dmg",
+    "version": "38.0.0-dev.366"
   },
   "linux-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-v38.0.0-dev.365/Pulse-38.0.0-dev.365.AppImage",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-v38.0.0-dev.365/Pulse-38.0.0-dev.365.AppImage",
-    "version": "38.0.0-dev.365",
-    "sha256": "4ea4564ce5c671efe6ebbad08c1e61a342c44fda8317fc708cd97b97b82064ab"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-v38.0.0-dev.366/Pulse-38.0.0-dev.366.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-v38.0.0-dev.366/Pulse-38.0.0-dev.366.AppImage",
+    "version": "38.0.0-dev.366",
+    "sha256": "f3b308a996dc4ea4b4db90c372d5b224cd9cfe4227b1d6f02d0cbf4ed7cc0e2d"
   },
   "win32-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-v38.0.0-dev.365",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-v38.0.0-dev.365/Pulse.Setup.38.0.0-dev.365.exe",
-    "version": "38.0.0-dev.365"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-v38.0.0-dev.366",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-v38.0.0-dev.366/Pulse.Setup.38.0.0-dev.366.exe",
+    "version": "38.0.0-dev.366"
   }
 }

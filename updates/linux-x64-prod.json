@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.5/Pulse-38.0.5.AppImage",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.5/Pulse-38.0.5.AppImage",
-    "version": "38.0.5",
-    "sha256": "04f699d0b970414384a6433636e72bd56ddde430dd07f6e77b9e0338a4dfe5e5"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.6/Pulse-38.0.6.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.6/Pulse-38.0.6.AppImage",
+    "version": "38.0.6",
+    "sha256": "6f8c993a7d611e1e88db1449936bb59ce54338e5d039fe41ef8463b16a3d4894"
   }
 }

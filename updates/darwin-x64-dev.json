@@ -1,7 +1,7 @@
 {
   "darwin-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-38.0.0-dev.373/release.json",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-38.0.0-dev.373/Pulse-38.0.0-dev.373.dmg",
-    "version": "38.0.0-dev.373"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-38.0.0-dev.376/release.json",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-dev-38.0.0-dev.376/Pulse-38.0.0-dev.376.dmg",
+    "version": "38.0.0-dev.376"
   }
 }

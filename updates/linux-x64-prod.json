@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.0/Pulse-38.0.0.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.0/Pulse-38.0.0.AppImage",
+    "version": "38.0.0",
+    "sha256": "0f3d823802a9d245d5d1f550bce5cef9bbb206d50586be70b67c9932ba022765"
+  }
+}

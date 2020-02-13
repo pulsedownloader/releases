@@ -1,7 +1,7 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-prod-38.0.4/release.json",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-prod-38.0.4/Pulse-38.0.4.dmg",
-    "version": "38.0.4"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-prod-38.0.5/release.json",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-prod-38.0.5/Pulse-38.0.5.dmg",
+    "version": "38.0.5"
   }
 }

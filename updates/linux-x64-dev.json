@@ -1,8 +1,8 @@
 {
   "linux-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.15-dev.433/Pulse-38.0.15-dev.433.AppImage",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.15-dev.433/Pulse-38.0.15-dev.433.AppImage",
-    "version": "38.0.15-dev.433",
-    "sha256": "831ccea45acf5c5e4f2319f17acc301d77f7c5df8a24fe6d9110f2c0648b6142"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.15-dev.443/Pulse-38.0.15-dev.443.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.15-dev.443/Pulse-38.0.15-dev.443.AppImage",
+    "version": "38.0.15-dev.443",
+    "sha256": "bb68b6838ead3e9e2aabb9e4330de32a8138ab993d7ce6b88b2d6311e1bc046e"
   }
 }

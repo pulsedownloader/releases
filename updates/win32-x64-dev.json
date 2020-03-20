@@ -1,7 +1,7 @@
 {
   "win32-x64-dev": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-38.0.17-dev.495",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-38.0.17-dev.495/Pulse.Setup.38.0.17-dev.495.exe",
-    "version": "38.0.17-dev.495"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-38.0.19-dev.489",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-dev-38.0.19-dev.489/Pulse.Setup.38.0.19-dev.489.exe",
+    "version": "38.0.19-dev.489"
   }
 }

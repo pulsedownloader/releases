@@ -1,7 +1,7 @@
 {
   "win32-x64-beta": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-38.0.19-beta.520",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-38.0.19-beta.520/Pulse.Setup.38.0.19-beta.520.exe",
-    "version": "38.0.19-beta.520"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-38.0.19-beta.523",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-38.0.19-beta.523/Pulse.Setup.38.0.19-beta.523.exe",
+    "version": "38.0.19-beta.523"
   }
 }

@@ -3,6 +3,6 @@
     "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-38.0.19-beta.484/Pulse-38.0.19-beta.484.AppImage",
     "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-38.0.19-beta.484/Pulse-38.0.19-beta.484.AppImage",
     "version": "38.0.19-beta.484",
-    "sha256": "a2cd50b67e0a53ebab76a95720bffdd9c20e6ed5634c46ca8eaffc0c74e8c334"
+    "sha256": "1ee93abeb20c3964b56a93e1b2adcb358aa45003d594ae08a06c90bda15f161e"
   }
 }

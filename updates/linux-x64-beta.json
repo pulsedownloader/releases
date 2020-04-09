@@ -1,8 +1,8 @@
 {
   "linux-x64-beta": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-38.0.19-beta.504/Pulse-38.0.19-beta.504.AppImage",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-beta-38.0.19-beta.504/Pulse-38.0.19-beta.504.AppImage",
-    "version": "38.0.19-beta.504",
-    "sha256": "d9556eb8f51870812aa61be64daaa14c6139353f47e2af57c76654e2c2083337"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.22/Pulse-38.0.22.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-prod-38.0.22/Pulse-38.0.22.AppImage",
+    "version": "38.0.22",
+    "sha256": "67ee28b1b0f09dfcb72b52df0cc9677e8a244a407dfebababd3a2adf93a0706e"
   }
 }

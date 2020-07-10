@@ -1,7 +1,7 @@
 {
   "darwin-x64-beta": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-beta-40.0.0-beta.386/release.json",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-beta-40.0.0-beta.386/Pulse-40.0.0-beta.386.dmg",
-    "version": "40.0.0-beta.386"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-beta-40.0.0-beta.389/release.json",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/darwin-x64-beta-40.0.0-beta.389/Pulse-40.0.0-beta.389.dmg",
+    "version": "40.0.0-beta.389"
   }
 }

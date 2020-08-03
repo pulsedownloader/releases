@@ -1,7 +1,7 @@
 {
   "win32-x64-beta": {
-    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-40.0.0-beta.463",
-    "install": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-beta-40.0.0-beta.463/Pulse.Setup.40.0.0-beta.463.exe",
-    "version": "40.0.0-beta.463"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/win32-x64-prod-40.0.0",
+    "install": "http://s3.us-east-2.stackpathstorage.com/pulsedownloader/Pulse%20Web%20Setup%2040.0.0.exe",
+    "version": "40.0.0"
   }
 }

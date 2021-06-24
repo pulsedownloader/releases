@@ -1,8 +1,8 @@
 {
   "linux-x64-dev": {
-    "update": "https://s3.us-east-2.stackpathstorage.com/pulsedownloader/Pulse-40.0.0.AppImage",
-    "install": "https://s3.us-east-2.stackpathstorage.com/pulsedownloader/Pulse-40.0.0.AppImage",
-    "version": "40.0.0",
-    "sha256": "5f13ec940f9f722e18e5b65b94800fb4406d80c2a9b279e03f7ae3787e3aa7b0"
+    "update": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.24-dev.508/Pulse-38.0.24-dev.508.AppImage",
+    "install": "https://github.com/pulsedownloader/releases/releases/download/linux-x64-dev-38.0.24-dev.508/Pulse-38.0.24-dev.508.AppImage",
+    "version": "38.0.24-dev.508",
+    "sha256": "34cba9a1fc6541974c9df2280e5719b2439f9d2e125d6e37419a1f7da3865317"
   }
 }
